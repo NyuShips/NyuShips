@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @NyuShips
+- 👀 I’m interested in coding in general
+- 🌱 I’m currently learning JavaScript / PHP / CSS
+- 💞️ I’m looking to collaborate on any project that would make me learn new things
+- 📫 Discord : K.Nyu
+- ⚡ Fun fact: I can make amazing cookies.
